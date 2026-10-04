@@ -1,0 +1,8 @@
+interface:
+  display_name: 长文转图文分页稿
+  short_description: 将授权中文长文拆成封面钩子、逐页重点文案与配图需求
+  default_prompt: 请提供一份用户原创或已获授权的完整中文长文和目标受众；我会输出一页一重点的封面钩子、分页文案与配图需求。
+  icon_small: icon-512.png
+  icon_large: icon-512.png
+policy:
+  allow_implicit_invocation: true

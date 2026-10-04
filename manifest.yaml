@@ -1,0 +1,27 @@
+name: selfmedia-longtext-to-carousel-cn
+slug: selfmedia-longtext-to-carousel-cn
+display_name: 长文转图文分页稿
+description: 将用户原创或已获授权的中文长文及目标受众，整理为封面钩子、逐页单一重点文案和配图需求的图文分页稿。适合小店经营者、小说作者与自媒体创作者复用长内容；正文、授权或受众缺失时明确追问，避免编造事实、数字或图像。
+version: 1.0.0
+license: MIT
+repository: https://github.com/xxjrq/selfmedia-longtext-to-carousel-cn
+tags:
+  - 中文内容创作
+  - 图文分页
+  - 轮播图文案
+  - 长文改写
+  - 自媒体运营
+trigger_words:
+  - 长文转图文
+  - 轮播图文案
+  - 图文分页稿
+  - 小红书分页
+entrypoint: SKILL.md
+icon: icon-512.png
+self_test: python3 scripts/self_test.py
+seo:
+  title: 长文转图文分页稿
+  keywords:
+    - 长文转图文
+    - 图文分页稿
+    - 轮播图文案
